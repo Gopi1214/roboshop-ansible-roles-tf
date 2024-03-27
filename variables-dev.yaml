@@ -17,3 +17,7 @@ SHIPPING_HOST: shipping.app-dev.pjdevops.online
 PAYMENT_HOST: payment.app-dev.pjdevops.online
 
 DISPATCH_HOST: dispatch.app-dev.pjdevops.online
+
+NEXUS_URL: http://172.31.94.66:8081/repository
+
+group_id: "com/roboshop"
