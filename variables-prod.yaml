@@ -19,3 +19,9 @@ RABBITMQ_HOST: rabbitmq-prod.pjdevops.online
 PAYMENT_HOST: payment-prod.pjdevops.online
 
 DISPATCH_HOST: dispatch-prod.pjdevops.online
+
+NEXUS_URL: http://172.31.92.25:8081/repository
+
+group_id: "com/roboshop"
+
+packaging: "zip"
